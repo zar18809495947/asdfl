@@ -33,6 +33,18 @@ public class GenTest {
         } catch (Exception e) {
             e.printStackTrace();
         }
+        try {
+            GenTest genTest = new GenTest();
+            System.out.println("1123123123");
+            genTest.generator();
+        } catch (Exception e) {
+            e.printStackTrace();
+        }try {
+            GenTest genTest = new GenTest();
+            genTest.generator();
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
 
     }
 }
