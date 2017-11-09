@@ -27,6 +27,17 @@ public class GenTest {
     }
 
     public static void main(String[] args) {
+        System.out.println("kkkk");
+        System.out.println("kkkk");
+        System.out.println("kkkk");
+        System.out.println("kkkk");
+        System.out.println("kkkk");
+        System.out.println("kkkk");
+        System.out.println("kkkk");
+        System.out.println("kkkk");
+        System.out.println("kkkk");
+        System.out.println("kkkk");
+        System.out.println("kkkk");
         try {
             GenTest genTest = new GenTest();
             genTest.generator();
