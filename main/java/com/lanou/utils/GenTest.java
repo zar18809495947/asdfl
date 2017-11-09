@@ -27,11 +27,34 @@ public class GenTest {
     }
 
     public static void main(String[] args) {
+        System.out.println("kkkk");
+        System.out.println("kkkk");
+        System.out.println("kkkk");
+        System.out.println("kkkk");
+        System.out.println("kkkk");
+        System.out.println("kkkk");
+        System.out.println("kkkk");
+        System.out.println("kkkk");
+        System.out.println("kkkk");
+        System.out.println("kkkk");
+        System.out.println("kkkk");
         File configFile = new File("src/main/resources/generatorConfig.xml");
         List<String> warnings = new ArrayList<String>();
         List<String> warnings1 = new ArrayList<String>();
         List<String> warnings2 = new ArrayList<String>();
         try {
+            GenTest genTest = new GenTest();
+            genTest.generator();
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+        try {
+            GenTest genTest = new GenTest();
+            System.out.println("1123123123");
+            genTest.generator();
+        } catch (Exception e) {
+            e.printStackTrace();
+        }try {
             GenTest genTest = new GenTest();
             genTest.generator();
         } catch (Exception e) {
