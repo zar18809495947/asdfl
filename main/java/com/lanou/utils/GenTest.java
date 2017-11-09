@@ -27,6 +27,10 @@ public class GenTest {
     }
 
     public static void main(String[] args) {
+        File configFile = new File("src/main/resources/generatorConfig.xml");
+        List<String> warnings = new ArrayList<String>();
+        List<String> warnings1 = new ArrayList<String>();
+        List<String> warnings2 = new ArrayList<String>();
         try {
             GenTest genTest = new GenTest();
             genTest.generator();
