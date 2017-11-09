@@ -34,5 +34,89 @@ public class GenTest {
             e.printStackTrace();
         }
 
+        try {
+            GenTest genTest = new GenTest();
+            genTest.generator();
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+
+        try {
+            GenTest genTest = new GenTest();
+            genTest.generator();
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+
+        try {
+            GenTest genTest = new GenTest();
+            genTest.generator();
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+
+        try {
+            GenTest genTest = new GenTest();
+            genTest.generator();
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+
+        try {
+            GenTest genTest = new GenTest();
+            genTest.generator();
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+
+        try {
+            GenTest genTest = new GenTest();
+            genTest.generator();
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+
+        try {
+            GenTest genTest = new GenTest();
+            genTest.generator();
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+
+        try {
+            GenTest genTest = new GenTest();
+            genTest.generator();
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+
+        try {
+            GenTest genTest = new GenTest();
+            genTest.generator();
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+
+        try {
+            GenTest genTest = new GenTest();
+            genTest.generator();
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+
+        try {
+            GenTest genTest = new GenTest();
+            genTest.generator();
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+
+        try {
+            GenTest genTest = new GenTest();
+            genTest.generator();
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+
     }
 }
